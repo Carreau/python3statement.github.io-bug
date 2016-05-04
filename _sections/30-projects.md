@@ -1,4 +1,4 @@
----
+--- 
 title: Projects
 bg: '#9850ea'
 fa-icon: group
